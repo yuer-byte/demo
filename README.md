@@ -4,5 +4,5 @@
 2025/06/20：上传 第二周纪要.pdf\
 2025/06/24：上传 第三周任务，包括 yolov4.py, requirements.txt, Dockerfile, input.jpg, output.jpg 文件\
 2025/06/25：上传 第三周纪要.md\
-2025/06/25：更新 第三周纪要.md
+2025/06/26：更新 第三周纪要.md
 
