@@ -5,5 +5,6 @@
 2025/06/24：上传 第三周任务，包括 yolov4.py, requirements.txt, Dockerfile, input.jpg, output.jpg 文件\
 2025/06/25：上传 第三周纪要.md\
 2025/06/26：更新 第三周纪要.md\
-2025/07/03：上传 NVIDIA TAO Toolkit 学习摘要.pdf
+2025/07/03：上传 NVIDIA TAO Toolkit 学习摘要.pdf\
+2025/07/07：上传 NVIDIA DeepStream SDK 学习摘要.pdf
 
